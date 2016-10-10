@@ -1,4 +1,4 @@
-uint8_r func(int a, int b)
+uint8_r summ_calc(int a, int b)
 {
 	int summ;
 	summ = a+b;

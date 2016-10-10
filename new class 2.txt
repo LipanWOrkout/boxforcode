@@ -1,4 +1,4 @@
-uint32_r func(int a, int b)
+uint32_r multiple_calc(int a, int b)
 {
 	int multiple;
 	multiple = a*b;
