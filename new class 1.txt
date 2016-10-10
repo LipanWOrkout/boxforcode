@@ -1,0 +1,6 @@
+uint8_r func(int a, int b)
+{
+	int summ;
+	summ = a+b;
+	return summ;
+}

@@ -1,0 +1,6 @@
+uint32_r func(int a, int b)
+{
+	int multiple;
+	multiple = a*b;
+	return multiple;
+}
