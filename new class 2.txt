@@ -3,4 +3,5 @@ uint32_r multiple_calc(int a, int b)
 	int multiple;
 	multiple = a*b;
 	return multiple;
+//commint
 }
