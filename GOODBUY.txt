@@ -1,0 +1,2 @@
+print("GoodBuy Men");
+print("GoodBuy my friend");
